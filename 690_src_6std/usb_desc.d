@@ -1,0 +1,26 @@
+usb_desc.o: USB\SRC\usb_desc.c
+usb_desc.o: .\USB\LIB\usb_lib.h
+usb_desc.o: .\USB\SRC\hw_config.h
+usb_desc.o: .\USB\SRC\platform_config.h
+usb_desc.o: .\Lib\inc\misc.h
+usb_desc.o: .\System\stm32f10x.h
+usb_desc.o: .\System\core_cm3.h
+usb_desc.o: D:\Program Files\keil4.54\ARM\RV31\Inc\stdint.h
+usb_desc.o: .\System\system_stm32f10x.h
+usb_desc.o: .\Lib\inc\stm32f10x_conf.h
+usb_desc.o: .\Lib\inc\stm32f10x_gpio.h
+usb_desc.o: .\System\stm32f10x.h
+usb_desc.o: .\Lib\inc\stm32f10x_rcc.h
+usb_desc.o: .\Lib\inc\stm32f10x_usart.h
+usb_desc.o: .\Lib\inc\stm32f10x_exti.h
+usb_desc.o: .\Lib\inc\stm32f10x_pwr.h
+usb_desc.o: .\USB\LIB\usb_type.h
+usb_desc.o: .\USB\SRC\usb_conf.h
+usb_desc.o: .\USB\LIB\usb_regs.h
+usb_desc.o: .\USB\LIB\usb_def.h
+usb_desc.o: .\USB\LIB\usb_core.h
+usb_desc.o: .\USB\LIB\usb_init.h
+usb_desc.o: .\USB\LIB\usb_sil.h
+usb_desc.o: .\USB\LIB\usb_mem.h
+usb_desc.o: .\USB\LIB\usb_int.h
+usb_desc.o: USB\SRC\usb_desc.h

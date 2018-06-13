@@ -1,0 +1,4 @@
+--cpu Cortex-M3 "startup_stm32f10x_hd.o" "stm32f10x_rcc.o" "stm32f10x_gpio.o" "misc.o" "stm32f10x_exti.o" "stm32f10x_tim.o" "stm32f10x_usart.o" "stm32f10x_adc.o" "stm32f10x_dma.o" "stm32f10x_flash.o" "core_cm3.o" "system_stm32f10x.o" "main.o" "pbdata.o" "stm32f10x_it.o" "motor.o" "uart.o" "ad.o" "func.o" "crc32.o" "ds18b20.o" "heat.o" "usb_config.o" "calibrate.o" "flash.o" "os_cpu_c.o" "os_dbg.o" "os_cpu_a.o" "os_core.o" "os_flag.o" "os_mbox.o" "os_mem.o" "os_mutex.o" "os_q.o" "os_sem.o" "os_task.o" "os_time.o" "os_tmr.o" "hw_config.o" "usb_desc.o" "usb_endp.o" "usb_istr.o" "usb_it.o" "usb_prop.o" "usb_pwr.o" "usb_core.o" "usb_init.o" "usb_int.o" "usb_mem.o" "usb_regs.o" "usb_sil.o" "queue.o" --library_type=microlib --strict --scatter "680.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\680.map" -o 680.axf

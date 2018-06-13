@@ -1,0 +1,70 @@
+*** Creating Trace Output File '680.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup_stm32f10x_hd.o"'
+### List of Objects: adding '"stm32f10x_rcc.o"'
+### List of Objects: adding '"stm32f10x_gpio.o"'
+### List of Objects: adding '"misc.o"'
+### List of Objects: adding '"stm32f10x_exti.o"'
+### List of Objects: adding '"stm32f10x_tim.o"'
+### List of Objects: adding '"stm32f10x_usart.o"'
+### List of Objects: adding '"stm32f10x_adc.o"'
+### List of Objects: adding '"stm32f10x_dma.o"'
+### List of Objects: adding '"stm32f10x_flash.o"'
+### List of Objects: adding '"core_cm3.o"'
+### List of Objects: adding '"system_stm32f10x.o"'
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"pbdata.o"'
+### List of Objects: adding '"stm32f10x_it.o"'
+### List of Objects: adding '"motor.o"'
+### List of Objects: adding '"uart.o"'
+### List of Objects: adding '"ad.o"'
+### List of Objects: adding '"func.o"'
+### List of Objects: adding '"crc32.o"'
+### List of Objects: adding '"ds18b20.o"'
+### List of Objects: adding '"heat.o"'
+### List of Objects: adding '"usb_config.o"'
+### List of Objects: adding '"calibrate.o"'
+### List of Objects: adding '"flash.o"'
+### List of Objects: adding '"os_cpu_c.o"'
+### List of Objects: adding '"os_dbg.o"'
+### List of Objects: adding '"os_cpu_a.o"'
+### List of Objects: adding '"os_core.o"'
+### List of Objects: adding '"os_flag.o"'
+### List of Objects: adding '"os_mbox.o"'
+### List of Objects: adding '"os_mem.o"'
+### List of Objects: adding '"os_mutex.o"'
+### List of Objects: adding '"os_q.o"'
+### List of Objects: adding '"os_sem.o"'
+### List of Objects: adding '"os_task.o"'
+### List of Objects: adding '"os_time.o"'
+### List of Objects: adding '"os_tmr.o"'
+### List of Objects: adding '"hw_config.o"'
+### List of Objects: adding '"usb_desc.o"'
+### List of Objects: adding '"usb_endp.o"'
+### List of Objects: adding '"usb_istr.o"'
+### List of Objects: adding '"usb_it.o"'
+### List of Objects: adding '"usb_prop.o"'
+### List of Objects: adding '"usb_pwr.o"'
+### List of Objects: adding '"usb_core.o"'
+### List of Objects: adding '"usb_init.o"'
+### List of Objects: adding '"usb_int.o"'
+### List of Objects: adding '"usb_mem.o"'
+### List of Objects: adding '"usb_regs.o"'
+### List of Objects: adding '"usb_sil.o"'
+### List of Objects: adding '"queue.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "startup_stm32f10x_hd.o" "stm32f10x_rcc.o" "stm32f10x_gpio.o" "misc.o" "stm32f10x_exti.o" "stm32f10x_tim.o" "stm32f10x_usart.o" "stm32f10x_adc.o" "stm32f10x_dma.o" "stm32f10x_flash.o" "core_cm3.o" "system_stm32f10x.o" "main.o" "pbdata.o" "stm32f10x_it.o" "motor.o" "uart.o" "ad.o" "func.o" "crc32.o" "ds18b20.o" "heat.o" "usb_config.o" "calibrate.o" "flash.o" "os_cpu_c.o" "os_dbg.o" "os_cpu_a.o" "os_core.o" "os_flag.o" "os_mbox.o" "os_mem.o" "os_mutex.o" "os_q.o" "os_sem.o" "os_task.o" "os_time.o" "os_tmr.o" "hw_config.o" "usb_desc.o" "usb_endp.o" "usb_istr.o" "usb_it.o" "usb_prop.o" "usb_pwr.o" "usb_core.o" "usb_init.o" "usb_int.o" "usb_mem.o" "usb_regs.o" "usb_sil.o" "queue.o" --library_type=microlib --strict --scatter "680.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\680.map" -o 680.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '680.axf'
+### ADS-LD Command File: '680.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '680.lnp', Handle=0x000002E0
+### Writing '.lnp' file
+### ADS-LD Command file '680.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

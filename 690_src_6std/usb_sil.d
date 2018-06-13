@@ -1,0 +1,25 @@
+usb_sil.o: USB\LIB\usb_sil.c
+usb_sil.o: USB\LIB\usb_lib.h
+usb_sil.o: .\USB\SRC\hw_config.h
+usb_sil.o: .\USB\SRC\platform_config.h
+usb_sil.o: .\Lib\inc\misc.h
+usb_sil.o: .\System\stm32f10x.h
+usb_sil.o: .\System\core_cm3.h
+usb_sil.o: D:\Program Files\keil4.54\ARM\RV31\Inc\stdint.h
+usb_sil.o: .\System\system_stm32f10x.h
+usb_sil.o: .\Lib\inc\stm32f10x_conf.h
+usb_sil.o: .\Lib\inc\stm32f10x_gpio.h
+usb_sil.o: .\System\stm32f10x.h
+usb_sil.o: .\Lib\inc\stm32f10x_rcc.h
+usb_sil.o: .\Lib\inc\stm32f10x_usart.h
+usb_sil.o: .\Lib\inc\stm32f10x_exti.h
+usb_sil.o: .\Lib\inc\stm32f10x_pwr.h
+usb_sil.o: .\USB\LIB\usb_type.h
+usb_sil.o: .\USB\SRC\usb_conf.h
+usb_sil.o: USB\LIB\usb_regs.h
+usb_sil.o: USB\LIB\usb_def.h
+usb_sil.o: USB\LIB\usb_core.h
+usb_sil.o: USB\LIB\usb_init.h
+usb_sil.o: USB\LIB\usb_sil.h
+usb_sil.o: USB\LIB\usb_mem.h
+usb_sil.o: USB\LIB\usb_int.h
